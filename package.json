@@ -1,0 +1,27 @@
+{
+  "name": "real-estate-yy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon api/index.js",
+    "start": "node api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meskeluchala/mern-estate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meskeluchala/mern-estate/issues"
+  },
+  "homepage": "https://github.com/meskeluchala/mern-estate#readme",
+  "dependencies": {
+    "debug": "^4.4.0",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
